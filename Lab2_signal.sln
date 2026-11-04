@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lab2_signal", "Lab2_signal\Lab2_signal.pyproj", "{C33883BB-6B13-4C4A-8449-3E63DEF2C752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33883BB-6B13-4C4A-8449-3E63DEF2C752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33883BB-6B13-4C4A-8449-3E63DEF2C752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0765DC45-72AA-46CD-9CFB-2E0F068B59B6}
+	EndGlobalSection
+EndGlobal
